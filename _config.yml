@@ -6,7 +6,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 email: josh@quartzstudio.com
 # --------------------------------------------------
 # the subpath of your site, e.g. /blog/
-baseurl: "http://colowrap.com/"
+# baseurl: "http://colowrap.com"
 # permalink: /blog/:year/:month/:title
 # paginate: 5
 # paginate_path: /blog/page/:num
