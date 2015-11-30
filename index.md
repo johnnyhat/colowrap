@@ -20,7 +20,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 			<div class="content">
 				<div class="video">
 					<a href="http://www.youtube.com/embed/_t0gV4tRDxI" target="lightbox">
-						<img src="{{site.baseurl}}/assets/img/video.jpg">
+						<img src="{{site.baseurl}}assets/img/video.jpg">
 						<span class="play"></span>
 					</a>
 				</div>
@@ -36,7 +36,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 				<div class="stats">
 					<div class="stat">
 						<div class="stat-body">
-							<div class="stat-graphic"><img src="{{site.baseurl}}/assets/img/stat-schedule.png" /></div>
+							<div class="stat-graphic"><img src="{{site.baseurl}}assets/img/stat-schedule.png" /></div>
 							<div class="stat-content">
 								<h2 class="h6">Stay on Schedule</h2>
 								<div class="data">50-100%</div>
@@ -46,7 +46,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 					</div>
 					<div class="stat">
 						<div class="stat-body">
-							<div class="stat-graphic"><img src="{{site.baseurl}}/assets/img/stat-difficulty.png" /></div>
+							<div class="stat-graphic"><img src="{{site.baseurl}}assets/img/stat-difficulty.png" /></div>
 							<div class="stat-content">
 								<h2 class="h6">Reduce Difficulty</h2>
 								<div class="data">80%</div>
@@ -56,7 +56,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 					</div>
 					<div class="stat">
 						<div class="stat-body">
-							<div class="stat-graphic"><img src="{{site.baseurl}}/assets/img/stat-detection.png" /></div>
+							<div class="stat-graphic"><img src="{{site.baseurl}}assets/img/stat-detection.png" /></div>
 							<div class="stat-content">
 								<h2 class="h6">Increase Detection</h2>
 								<div class="data">33%</div>
@@ -83,7 +83,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 							<div>
 								<div class="quote">
 									<div class="quote-body">
-										<div class="quote-avatar"><img src="{{site.baseurl}}/assets/img/quote-demelo.jpg" /></div>
+										<div class="quote-avatar"><img src="{{site.baseurl}}assets/img/quote-demelo.jpg" /></div>
 										<div class="quote-content">
 											<blockquote>"During the procedures, I didn’t have to apply any external pressure or reposition the patient in either case. I was able to complete the studies as planned without any complications."</blockquote>
 											<cite>
@@ -96,7 +96,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 							<div>
 								<div class="quote">
 									<div class="quote-body">
-										<div class="quote-avatar"><img src="{{site.baseurl}}/assets/img/quote-zaidman.jpg" /></div>
+										<div class="quote-avatar"><img src="{{site.baseurl}}assets/img/quote-zaidman.jpg" /></div>
 										<div class="quote-content">
 											<blockquote>"I use the ColoWrap in patients with obesity, prior abdominal surgeries, or a history of difficult colonoscopies. In my experience, the ColoWrap makes many of the procedures easier and aids with completion."</blockquote>
 											<cite>
@@ -110,7 +110,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 							<div>
 								<div class="quote">
 									<div class="quote-body">
-										<div class="quote-avatar"><img src="{{site.baseurl}}/assets/img/quote-schutz.jpg" /></div>
+										<div class="quote-avatar"><img src="{{site.baseurl}}assets/img/quote-schutz.jpg" /></div>
 										<div class="quote-content">
 											<blockquote>"Even seasoned endoscopists encounter challenging colonoscopies, and for those cases, I rely on ColoWrap. It really helps."</blockquote>
 											<cite>
