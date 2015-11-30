@@ -1,5 +1,6 @@
 ---
 title: Colowrap
+description: ColoWrap delivers adjustable, targeted compression to reduce looping and enhance bowel stability during colonoscopy.
 ---
 
 <header class="header">
