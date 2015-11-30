@@ -1,0 +1,31 @@
+form.wufoo {
+	margin: 0;
+	#{headings()} { margin: 0 0 .5rem; }
+	> ul {
+		@include clean();
+		margin: .5em 0;
+		li {
+			@include table(top);
+			padding: .25em 0;
+			> * {
+				&:first-child { width: 30%; 
+					&:last-child { width: 100%; }
+				}
+			}
+			> label { font-weight: bold; margin-bottom: 0; padding-top: .375em; }
+			span {
+				display: inline-block;
+				vertical-align: top;
+				label { margin: -.25em 0 0; color: $light; font-style: oblique; 
+					&.choice { display: inline; margin-left: .5em; color: $dark; }
+
+				}
+				margin-right: .5em;
+			}
+			.ui-field, .field, fieldset { margin: 0 !important; }
+
+			span.symbol { line-height: 2.5; margin: .5em .5em .5em 0; }
+			&.hide { display: none; }
+		}
+	}
+}

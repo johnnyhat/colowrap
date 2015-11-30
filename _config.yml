@@ -1,0 +1,29 @@
+# --------------------------------------------------
+# Site settings
+title: Colowrap
+company: Colowrap
+description: The Jekyll site for Colowrap
+email: josh@quartzstudio.com
+# --------------------------------------------------
+# the subpath of your site, e.g. /blog/
+baseurl: "/"
+# permalink: /blog/:year/:month/:title
+# paginate: 5
+# paginate_path: /blog/page/:num
+# --------------------------------------------------
+# the base hostname & protocol for your site
+# url: ""
+# --------------------------------------------------
+# Build settings
+markdown: redcarpet
+sass:
+  style: compressed
+# --------------------------------------------------
+# Build settings
+defaults:
+-
+  scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: "page"

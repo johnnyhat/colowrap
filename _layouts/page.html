@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+	{% include head.html %}
+	<body ng-app="CWApp" ng-controller="CWCtrl">
+		<div class="page">
+			{% include nav.html %}
+			{{ content }}
+			{% include footer.html %}
+		</div>
+		{% include modals.html %}
+	</body>
+</html>
