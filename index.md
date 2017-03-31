@@ -16,15 +16,15 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 </header>
 <main class="main">
 	<section class="section video">
-		<div class="frame">
+		<!-- <div class="frame">
 			<div class="content">
 				<div class="video">
 					<a href="http://www.youtube.com/embed/_t0gV4tRDxI" target="lightbox">
 						<img src="{{site.baseurl}}assets/img/video.jpg">
 						<span class="play"></span>
 					</a>
-				</div>
-				<div class="description">
+				</div> -->
+				<div class="description" style="text-align:center;">
 					<h3>ColoWrap delivers adjustable, targeted compression to reduce looping and enhance bowel stability during colonoscopy.</h3>
 				</div>
 			</div>
