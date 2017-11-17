@@ -131,7 +131,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 						<ul>
 							<li>
 								<h6>Looping</h6>
-								<p>Despite technical advances, sigmoid looping remains a major risk factor for prolonged insertions , incomplete procedures, and patient discomfort.</p>
+								<p>Despite technical advances, sigmoid looping remains a major risk factor for prolonged insertions, incomplete procedures, and patient discomfort.</p>
 							</li>
 							<li>
 								<h6>Physician and Staff Injury</h6>
@@ -141,7 +141,7 @@ description: ColoWrap delivers adjustable, targeted compression to reduce loopin
 					</div>
 					<div class="summary solution">
 						<h6>The Solution</h6>
-						<h3>ColoWrap makes colonoscopies easier, safer and more effective.</h3>
+						<h3>ColoWrap makes colonoscopies easier, safer, and more effective.</h3>
 						<ul>
 							<li>
 								<h6>Reduced Difficulty</h6>
